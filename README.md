@@ -6,8 +6,15 @@ Flaskを用いてWeb上で顔画像の生成をするプログラム．
 * functions.py: GeneratorとDiscriminatorで必要な関数が記述してある．
 * template/index.html: Webのレイアウト等の記述がしてある．
 
+# 処理
+* 実行コマンド
+```
+python3 main.py
+```
+
 # 必要なライブラリ
 * numpy
 * flask
 * chainer (over v3)
 * PIL
+
