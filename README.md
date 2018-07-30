@@ -24,5 +24,6 @@ Attributeを選択して，Generateボタンを押すと顔画像を生成する
 * PIL
 
 ## 学習済みモデル置き場
-下記のリンクからDownloadしてソースコードと同じディレクトリに置いてください．
+下記のリンクからDownloadして，ソースコードのあるディレクトリにresultsというディレクトリを作成して，その中に置いてください．
+
 https://drive.google.com/open?id=1F17Jc7jyLayVIr_mh9GNrWCULH09bPUk
